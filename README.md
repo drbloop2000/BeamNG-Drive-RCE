@@ -5,3 +5,6 @@ Before November 19th, 2026 you could abuse LuaJIT optimizations in FFI to take a
 Write-up soon!
 
 <img width="1196" height="622" alt="image" src="https://github.com/user-attachments/assets/256f7aed-af89-4539-ba8d-1158e63f1c23" />
+
+
+<img width="911" height="564" alt="image" src="https://github.com/user-attachments/assets/45168726-b98f-4453-a19e-14ef504037de" />
